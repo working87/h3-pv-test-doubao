@@ -1,5 +1,5 @@
 ---
-name: h3-style-clone
+name: h3-PV-test-doubao
 description: "从参考图提取视觉风格 DNA，生成完整的 MiniMax H3 视频提示词（I2VA、FL2VA、Ref2VA），专注于高密度 PV 风格内容。复刻渲染方式、色彩、平面设计语汇和节奏语言，同时生成原创主体和叙事。默认输出 15秒 18-25 个镜头，带时间线同步音频弧线。"
 sources: [chat]
 aliases: [style-clone, h3-pvg, pvg, 风格克隆]
