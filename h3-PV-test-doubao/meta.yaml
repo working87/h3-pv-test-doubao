@@ -1,0 +1,17 @@
+display-name-zh: H3 PV风格克隆提示词生成器
+version: 0.2.0
+tag-en: Video Generation
+tag-cn: 视频生成
+complete-tags-en:
+- Video Generation / Style Extraction
+- Video Generation / PV Prompt
+complete-tags-cn:
+- 视频生成 / 风格提取
+- 视频生成 / PV提示词
+summary-en: Extract visual style DNA from reference images and generate high-density PV-style MiniMax H3 video prompts.
+summary-cn: 从参考图提取视觉风格DNA,生成高密度PV风格的MiniMax H3视频提示词,18-25镜头/15秒,支持多角色混剪。
+desc-en: For creators generating AI videos with MiniMax H3 who want to replicate the visual style of a reference image while producing original PV content. Outputs complete pasteable H3 prompts with 2000-3000 words, 18-25 shots per 15 seconds, flexible PV framework, multi-character mix-cut support, and timeline-synced audio arc.
+desc-cn: 面向使用MiniMax H3生成AI视频、希望复刻参考图视觉风格同时产出原创PV内容的创作者。输出可直接粘贴的完整H3提示词,2000-3000字,每15秒18-25个镜头,灵活PV框架,支持多角色混剪蒙太奇,带时间线同步音频弧线。
+author-en: Custom
+author-cn: 自定义
+source: custom
