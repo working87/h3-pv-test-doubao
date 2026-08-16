@@ -1,5 +1,5 @@
 ---
-name: h3-style-clone
+name: h3-PV-test-doubao
 description: "Extract visual style DNA from reference images and generate complete MiniMax H3 video prompts (I2VA, FL2VA, Ref2VA) for high-density PV-style content. Replicates rendering, color, graphic vocabulary, and pacing while generating original subjects and narratives. Default output 18-25 shots per 15s with timeline-synced audio arc."
 sources: [chat]
 aliases: [style-clone, h3-pvg, pvg]
